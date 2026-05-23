@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Zamato Clone Landing Page</title>
+    <title>Blinkit Clone Landing Page</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
